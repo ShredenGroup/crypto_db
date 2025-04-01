@@ -1,4 +1,7 @@
-sqlalchemy>=2.0.0
-aiomysql
-pymysql
-python-dotenv 
+aiohttp==3.8.4
+websockets==10.4
+redis==5.0.1
+aioredis==2.0.1
+sqlalchemy==2.0.0
+aiomysql==0.1.1
+python-dotenv==1.0.0 
